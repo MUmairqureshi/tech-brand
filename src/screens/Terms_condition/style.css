@@ -1,0 +1,33 @@
+/* Toaster */
+.toast-success {
+    background-color: #02a9f7 !important; /* Your desired background color */
+    color: #fff !important; /* Text color */
+  }
+   
+  /* Terms And Condition */
+  .terms-and-condition {
+    padding: 60px 0;
+  }
+  .terms-and-condition .faqs_ul {
+    margin: 20px 0;
+  }
+  .terms-and-condition .faqs_ul li {
+    margin-bottom: 5px;
+    line-height: 1.5;
+  }
+
+
+  
+/* Terms And Condition */
+ 
+
+/* Media Quries */
+@media (max-width: 1600px) {
+  .case-study-sec1,
+  .case-study-sec2,
+  .case-study-sec3,
+  .case-study-sec4,
+  .case-study-sec5,
+  .case-study-sec6 {
+    padding: 310px 0;
+  }}
